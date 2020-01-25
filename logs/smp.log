@@ -1,0 +1,28 @@
+| INFO | 25 Jan 12:54:29.89 : logger.service.js : 31 - [logger] log path: /Users/Astics/Documents/Astics/Others/LNE/smp/logs/smp.log 
+| INFO | 25 Jan 12:54:29.90 : sql.js : 25 - [sql] connecting to: smp@192.168.43.128:5432 
+| INFO | 25 Jan 13:04:03.63 : logger.service.js : 31 - [logger] log path: /Users/Astics/Documents/Astics/Others/LNE/smp/logs/smp.log 
+| INFO | 25 Jan 13:04:03.64 : sql.js : 25 - [sql] connecting to: smp@192.168.43.128:5432 
+| INFO | 25 Jan 13:08:57.97 : logger.service.js : 31 - [logger] log path: /Users/Astics/Documents/Astics/Others/LNE/smp/logs/smp.log 
+| INFO | 25 Jan 13:08:57.99 : sql.js : 25 - [sql] connecting to: smp@192.168.43.128:5432 
+| INFO | 25 Jan 13:08:57.99 : sql.js : 32 - [sql] connecting to: smp@192.168.43.128:5432 
+| INFO | 25 Jan 13:09:07.02 : sql.js : 44 - [db] returned 5 rows | SELECT * FROM zone 
+| INFO | 25 Jan 13:10:13.85 : logger.service.js : 31 - [logger] log path: /Users/Astics/Documents/Astics/Others/LNE/smp/logs/smp.log 
+| INFO | 25 Jan 13:10:13.86 : sql.js : 25 - [sql] connecting to: smp@192.168.43.128:5432 
+| INFO | 25 Jan 13:10:13.86 : sql.js : 32 - [sql] connecting to: smp@192.168.43.128:5432 
+| INFO | 25 Jan 13:10:30.55 : sql.js : 44 - [db] returned 5 rows | SELECT * FROM zone 
+| INFO | 25 Jan 13:10:46.87 : sql.js : 44 - [db] returned 5 rows | SELECT * FROM zone 
+| INFO | 25 Jan 13:11:18.37 : sql.js : 44 - [db] returned 5 rows | SELECT * FROM zone 
+| INFO | 25 Jan 13:11:26.43 : sql.js : 44 - [db] returned 0 rows | SELECT * FROM city 
+| INFO | 25 Jan 13:12:10.32 : sql.js : 44 - [db] returned 0 rows | SELECT * FROM city 
+| INFO | 25 Jan 14:17:50.16 : logger.service.js : 31 - [logger] log path: /Users/Astics/Documents/Astics/Others/LNE/smp/logs/smp.log 
+| INFO | 25 Jan 14:17:50.18 : sql.js : 25 - [sql] connecting to: smp@192.168.43.128:5432 
+| INFO | 25 Jan 14:17:50.18 : sql.js : 32 - [sql] connecting to: smp@192.168.43.128:5432 
+| INFO | 25 Jan 14:18:43.32 : logger.service.js : 31 - [logger] log path: /Users/Astics/Documents/Astics/Others/LNE/smp/logs/smp.log 
+| INFO | 25 Jan 14:18:43.33 : sql.js : 25 - [sql] connecting to: smp@192.168.43.128:5432 
+| INFO | 25 Jan 14:18:43.33 : sql.js : 32 - [sql] connecting to: smp@192.168.43.128:5432 
+| INFO | 25 Jan 14:19:00.91 : sql.js : 44 - [db] returned 5 rows | SELECT * FROM zone 
+| INFO | 25 Jan 14:19:07.09 : sql.js : 44 - [db] returned 8 rows | SELECT * FROM city 
+| INFO | 25 Jan 14:19:24.07 : logger.service.js : 31 - [logger] log path: /Users/Astics/Documents/Astics/Others/LNE/smp/logs/smp.log 
+| INFO | 25 Jan 14:19:24.08 : sql.js : 25 - [sql] connecting to: smp@192.168.43.128:5432 
+| INFO | 25 Jan 14:19:24.08 : sql.js : 32 - [sql] connecting to: smp@192.168.43.128:5432 
+| INFO | 25 Jan 14:19:36.67 : sql.js : 44 - [db] returned 8 rows | SELECT * FROM city 
